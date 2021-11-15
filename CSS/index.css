@@ -1,0 +1,113 @@
+body{
+
+
+	background:url(../img/madera5.jpeg);
+	background-repeat:;
+	background-size:auto;%;
+	color:#fff;
+	font-family:"Courier New";
+	font-size:108%;
+}
+html {
+	scroll-behavior:smooth;
+}
+
+section[id] {
+	scroll-margin-top:85px;
+}
+p{
+	font-family:"Courier New";
+	line-height:29px;
+}
+
+* {
+	margin:0;
+	padding:0;
+}
+
+header {
+	position:fixed;
+	left:0;
+	right:0;
+	top:0;
+}
+.main {
+	padding-top:70px;
+}
+
+header, .main, footer {
+	width:90%px;
+	max-width:1000px;
+	margin:0px auto;
+}
+
+header nav {
+	overflow:hidden;
+	background:#000;
+}
+
+header nav ul {
+	list-style:none;
+}
+
+header nav ul li {
+	float:left;
+}
+
+header nav ul li a {
+	color:#fff;
+	display:block;
+	padding:20px 25px;
+	text-decoration:none;
+}
+
+header nav ul li a:hover {
+	background:#B8B8B8;
+}
+
+.main article {
+	padding:10px;
+	background:;
+	margin-bottom:10px;
+} 
+.main .articles article {
+	padding:10px;
+	background:;
+	margin-bottom:10px;
+}
+
+a {
+	font-size:20px;
+	text-decoration:none;
+	color:#000;
+	font-style:bold;
+}
+
+.Sociales {
+	text text-align:center;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+.Sociales li {
+	display:inline-block;
+
+}
+
+.Sociales a {
+	padding:15px;
+}
+
+.redes img {
+	width:72px;
+	height:72px;
+
+}
+
+
+footer {
+	background:#000;
+	color:#fff;
+	text-align:center;
+	padding:10px 0px;
+}
