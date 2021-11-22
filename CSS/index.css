@@ -115,17 +115,18 @@ a {
 	text text-align:center;
 	padding-top:40px;
 	padding-bottom:40px;
+	color:#fff;
 	
 }	
 
 .Enlaces li {
 	display:inline-block;
-	color:#fff;
 	
 }
 
 .Enlaces a {
 	padding:15px;
+	color:#fff;
 	
 }
 
