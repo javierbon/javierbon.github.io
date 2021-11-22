@@ -107,7 +107,7 @@ a {
 a {
 	font-size:20px;
 	text-decoration:none;
-	color:#000;
+	color:#fff;
 	font-style:bold;
 }	
 
@@ -115,6 +115,7 @@ a {
 	text text-align:center;
 	padding-top:40px;
 	padding-bottom:40px;
+	color:#fff;
 }	
 
 .Enlaces li {
