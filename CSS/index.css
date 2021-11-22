@@ -109,18 +109,22 @@ a {
 	text-decoration:none;
 	color:#000;
 	font-style:bold;
+}	
 
 .Otros {
 	text text-align:center;
 	padding-top:40px;
 	padding-bottom:40px;
+}	
 
 .Enlaces li {
 	display:inline-block;
+	
 }
 
 .Enlaces a {
 	padding:15px;
+	
 }
 
 
